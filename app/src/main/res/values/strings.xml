@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">daraja</string>
+    <string name="amount">Amount</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="phone_e_g_2547xxxxxxxx">Phone (e.g., 2547XXXXXXXX)</string>
+</resources>

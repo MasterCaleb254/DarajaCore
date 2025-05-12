@@ -1,0 +1,22 @@
+# Gradle files
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Android specific
+.local/
+captures/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific
+*.swp
+*.swo
