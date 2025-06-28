@@ -36,3 +36,7 @@ Built using **Kotlin** and **Jetpack components**, it serves as a foundation for
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/MasterCaleb254/DarajaCore.git
+
+System architecture
+![DarajaCore System Architecture](https://github.com/user-attachments/assets/5c43842a-02ea-4411-9181-1a56a70d62e1)
+
